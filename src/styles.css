@@ -74,8 +74,12 @@ li {
 	position: relative;
 	top: -15px;
 	font-size: 20px;
-	
 }
 .other-measures {
 	vertical-align: middle;
+}
+#linkToCode {
+	margin: 10px auto;
+	font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+	width: 60%;
 }
